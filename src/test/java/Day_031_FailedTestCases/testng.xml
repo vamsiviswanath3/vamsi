@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite99999">
+  <test thread-count="5" name="TestFailed">
+    <classes>
+      <class name="Day_031_FailedTestCases.OrangeHRMTest"/>
+    </classes>
+  </test> <!-- TestFailed -->
+</suite> <!-- Suite99999 -->
